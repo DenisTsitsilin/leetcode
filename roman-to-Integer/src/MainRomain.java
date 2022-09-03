@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class Main {
+public class MainRomain {
     public static void main(String[] args) {
         List<Romain> romainList = new ArrayList<>();
         romainList.add(new Romain('I', 1, true));
