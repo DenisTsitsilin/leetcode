@@ -1,4 +1,5 @@
 # Roman to Integer
+## Task:
 
 Roman numerals are represented by seven different symbols: _I, V, X, L, C, D_ and _M_.
 
@@ -21,3 +22,6 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 - _C_ can be placed before _D (500)_ and _M (1000)_ to make _400_ and _900_.
 
 Given a roman numeral, convert it to an integer.
+
+## Run:
+Add in your IDEs new run configuration with arguments. The only argument is a roman numeral
