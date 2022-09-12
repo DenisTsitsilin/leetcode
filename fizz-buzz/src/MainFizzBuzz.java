@@ -3,7 +3,7 @@ import java.util.List;
 
 public class MainFizzBuzz {
     public static void main(String[] args) {
-        System.out.println(fizzBuzz(Integer.getInteger(args[0])));
+        System.out.println(fizzBuzz(Integer.parseInt(args[0])));
     }
 
     public static List<String> fizzBuzz(int n) {
